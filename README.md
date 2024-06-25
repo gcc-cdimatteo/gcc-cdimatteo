@@ -29,6 +29,6 @@ Gracias a todas las personas que colaboraron conmigo para armar este monstruo de
 - @valencorrea mi queridísima amiga y de los mejores regalos que me deja la facultad
 - mis amigos @Tomas-Apaldetti y @AgussAndrade que les debo muchas risas y un par de materias
 
-## Cofee Time ☕️
+## Coffee Time ☕️
 
 Si te sirven mis repos (imagino que sí, si no no sé qué haces leyendo todo esto) y sos un re copado, te podes poner la 10 e [invitarme un cafecito](https://cafecito.app/gcc-cdimatteo) :)
