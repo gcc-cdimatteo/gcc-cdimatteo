@@ -1,18 +1,18 @@
 ## omg hi stranger! 🙋🏻‍♀️
 
-Como me imagino que venís por acá para ver un poco de contenido de FIUBA, te doy una mano y te adelanto qué hay...
+Si es la primera vez que ves mi perfil y no me conocías de antes, te cuento que hace un tiempo vengo compilando y organizando todo el material de las materias en las que curso en FIUBA (Informática) y las subo acá a GitHub. Si no tenés idea si algo de esto te puede llegar a servir, te doy una mano y te adelanto qué hay...
 
 - [Algoritmos y Programación I](https://github.com/gcc-cdimatteo/Algoritmos-y-Programacion-I-75.40): Contenido de la ex cátedra Costa de ALGO I. Caducó en el plan 2020, pero hay ejercicios para chusmear!
 - [Algoritmos y Programación III](https://github.com/gcc-cdimatteo/Algoritmos-y-Programacion-III-75.07): Cátedra Suárez.
 - [Análisis Numérico I](https://github.com/gcc-cdimatteo/Analisis-Numerico-I-75.12): Cátedra Sassano.
-- Arquitectura del Software --> coming soon...
+- Arquitectura del Software: comming 🔜... 👀
 - [Base de Datos](https://github.com/gcc-cdimatteo/Base-de-Datos-75.15): Cátedra Beiró.
 - [Criptografía y Seguridad Informática](https://github.com/gcc-cdimatteo/Criptografia-y-Seguridad-Informatica): Cátedra Hugo.
 - [Empresas de Bases Tecnológica I](https://github.com/gcc-cdimatteo/EBTI-Empresas-de-Base-Tecnologica): Cátedra Oso.
-- Empresas de Bases Tecnológica II --> coming soon...
+- Empresas de Bases Tecnológica II: comming 🔜... 👀
 - [Estructura del Computador](https://github.com/gcc-cdimatteo/Estructura-del-Computador-66.70)
 - [Física II A](https://github.com/gcc-cdimatteo/Fisica-II-A-62.03)
-- Gestión del Desarrollo de Sistemas Informáticos --> coming soon...
+- Gestión del Desarrollo de Sistemas Informáticos: comming 🔜... 👀
 - [Introducción a los Sistemas Distribuidos](https://github.com/gcc-cdimatteo/Introduccion-a-los-Sistemas-Distribuidos-75.43): "Redes" del plan 2020.
 - [Organización de Datos](https://github.com/gcc-cdimatteo/Organizacion-de-Datos-75.06): Cátedra Rodríguez.
 - [Probabilidad y Estadística B](https://github.com/gcc-cdimatteo/Probabilidad-y-Estadistica-61.09): Cátedra Jemina, todos los videos pasados en limpio a un cuaderno.
