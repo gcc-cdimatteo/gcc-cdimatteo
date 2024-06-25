@@ -1,4 +1,4 @@
-## omg hi stranger! 👋
+## omg hi stranger! 🙋🏻‍♀️
 
 Como me imagino que venís por acá para ver un poco de contenido de FIUBA, te doy una mano y te adelanto qué hay...
 
