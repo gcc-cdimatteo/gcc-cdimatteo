@@ -5,17 +5,17 @@ Si es la primera vez que ves mi perfil y no me conocías de antes, te cuento que
 - [Algoritmos y Programación I](https://github.com/gcc-cdimatteo/Algoritmos-y-Programacion-I-75.40): Contenido de la ex cátedra Costa de ALGO I. Caducó en el plan 2020, pero hay ejercicios para chusmear!
 - [Algoritmos y Programación III](https://github.com/gcc-cdimatteo/Algoritmos-y-Programacion-III-75.07): Cátedra Suárez.
 - [Análisis Numérico I](https://github.com/gcc-cdimatteo/Analisis-Numerico-I-75.12): Cátedra Sassano.
-- Arquitectura del Software: comming 🔜... 👀
+- [Arquitectura del Software](https://github.com/gcc-cdimatteo/Arquitectura-del-Software-TB034): Cátedra Calonico.
 - [Base de Datos](https://github.com/gcc-cdimatteo/Base-de-Datos-75.15): Cátedra Beiró.
 - [Criptografía y Seguridad Informática](https://github.com/gcc-cdimatteo/Criptografia-y-Seguridad-Informatica): Cátedra Hugo.
 - [Empresas de Bases Tecnológica I](https://github.com/gcc-cdimatteo/EBTI-Empresas-de-Base-Tecnologica): Cátedra Oso.
-- Empresas de Bases Tecnológica II: comming 🔜... 👀
+- [Empresas de Bases Tecnológica II](https://github.com/gcc-cdimatteo/EBTI-Empresas-de-Base-Tecnologica-II): Cátedra Oso.
 - [Estructura del Computador](https://github.com/gcc-cdimatteo/Estructura-del-Computador-66.70)
 - [Física II A](https://github.com/gcc-cdimatteo/Fisica-II-A-62.03)
-- Gestión del Desarrollo de Sistemas Informáticos: comming 🔜... 👀
 - [Introducción a los Sistemas Distribuidos](https://github.com/gcc-cdimatteo/Introduccion-a-los-Sistemas-Distribuidos-75.43): "Redes" del plan 2020.
 - [Organización de Datos](https://github.com/gcc-cdimatteo/Organizacion-de-Datos-75.06): Cátedra Rodríguez.
 - [Probabilidad y Estadística B](https://github.com/gcc-cdimatteo/Probabilidad-y-Estadistica-61.09): Cátedra Jemina, todos los videos pasados en limpio a un cuaderno.
+- [Sistemas Distribuidos](https://github.com/gcc-cdimatteo/Sistemas-Distribuidos-I-75.74): Cátedra Roca.
 - [Sistemas Operativos](https://github.com/gcc-cdimatteo/Sistemas-Operativos-75.08): Cátedra Méndez.
 - [Taller de Programación I](https://github.com/gcc-cdimatteo/Taller-de-Programacion-I-75.42): Cátedra Deymonnaz.
 - [Técnicas de Diseño](https://github.com/gcc-cdimatteo/Tecnicas-de-Diseno-75.10): Cátedra Montaldo.
@@ -25,9 +25,9 @@ Si es la primera vez que ves mi perfil y no me conocías de antes, te cuento que
 ## Agradecimientos
 
 Gracias a todas las personas que colaboraron conmigo para armar este monstruo de Repos de FIUBA! En particular,
-- @gcc-florda mi compañero de todas las batallas
 - @valencorrea mi queridísima amiga y de los mejores regalos que me deja la facultad
 - mis amigos @Tomas-Apaldetti y @AgussAndrade que les debo muchas risas y un par de materias
+- y, lo mejor para el final dicen por ahí, @gcc-florda mi compañero de todas las batallas y compañero de esta y mil vidas que nos quedan juntos <3
 
 ## Coffee Time ☕️
 
