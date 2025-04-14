@@ -9,7 +9,7 @@ Si es la primera vez que ves mi perfil y no me conocías de antes, te cuento que
 - [Base de Datos](https://github.com/gcc-cdimatteo/Base-de-Datos-75.15): Cátedra Beiró.
 - [Criptografía y Seguridad Informática](https://github.com/gcc-cdimatteo/Criptografia-y-Seguridad-Informatica): Cátedra Hugo.
 - [Empresas de Bases Tecnológica I](https://github.com/gcc-cdimatteo/EBTI-Empresas-de-Base-Tecnologica): Cátedra Oso.
-- [Empresas de Bases Tecnológica II](https://github.com/gcc-cdimatteo/EBTI-Empresas-de-Base-Tecnologica-II): Cátedra Oso.
+- [Empresas de Bases Tecnológica II](https://github.com/gcc-cdimatteo/EBTII-Empresas-de-Base-Tecnologica-II): Cátedra Oso.
 - [Estructura del Computador](https://github.com/gcc-cdimatteo/Estructura-del-Computador-66.70)
 - [Física II A](https://github.com/gcc-cdimatteo/Fisica-II-A-62.03)
 - [Introducción a los Sistemas Distribuidos](https://github.com/gcc-cdimatteo/Introduccion-a-los-Sistemas-Distribuidos-75.43): "Redes" del plan 2020.
